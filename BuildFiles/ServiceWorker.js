@@ -1,9 +1,9 @@
 const cacheName = "Photon Engine -Fusion Cooking Coop-1.1";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js",
-    "Build/Builds.data",
-    "Build/Builds.wasm",
+    "Build/BuildFiles.loader.js",
+    "Build/BuildFiles.framework.js",
+    "Build/BuildFiles.data",
+    "Build/BuildFiles.wasm",
     "TemplateData/style.css"
 
 ];
